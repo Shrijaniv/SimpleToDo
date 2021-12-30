@@ -26,13 +26,14 @@ The following **additional** features are implemented:
 
 Here's a walkthrough of implemented user stories:
 
-<img src='http://i.imgur.com/link/to/your/gif/file.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
+<img src='SimpleToDo_App_walkthrough.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
 
-GIF created with [LiceCap](http://www.cockos.com/licecap/).
+GIF created with Adobe Premier Pro.
 
 ## Notes
 
-I didn't have many challenges while building the app but I had trouble figuring out how to implement git and GitHub
+I didn't have many challenges while building the app but I had trouble figuring out how to implement git and GitHub.
+I further had trouble with creating and uploading the gif because I didn't want to download LiceCap, I screen recorded and used Adobe premier pro but my laptop kept shutting down due to the fans running at full speed and I had to restart my laptop and upload the gif.
 
 ## License
 
